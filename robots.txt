@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://a0921503886-ltm.github.io/-xiaozheng-threads-radar/sitemap.xml
